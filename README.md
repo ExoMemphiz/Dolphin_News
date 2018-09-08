@@ -1,4 +1,4 @@
-# DolphinNews
+# Dolphin News
 
 ## Functional Requirements
 
