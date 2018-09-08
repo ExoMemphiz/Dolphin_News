@@ -1,4 +1,4 @@
-# Bingo Boyz 3.0 - DolphinNews
+# DolphinNews
 
 ## Functional Requirements
 
